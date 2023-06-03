@@ -1,0 +1,6 @@
+"products" -> "productId",
+              "brand",
+              "variantList" -> "sku", "name", 
+                            -> "listing" -> "priceInfo" -> "price", "originalPrice", "discountRate"
+                            -> "merchantName", "merchantId"
+                            -> "properties" -> "Renk" , -> "displayValue"
